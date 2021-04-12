@@ -1,3 +1,4 @@
+<?php
 add_action('woocommerce_before_customer_login_form', 'custom_login_text');
 
  function custom_login_text()
