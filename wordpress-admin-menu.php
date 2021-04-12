@@ -1,3 +1,4 @@
+<?php 
 /**
  * Register a custom menu page.
  */
