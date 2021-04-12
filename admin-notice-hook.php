@@ -1,4 +1,4 @@
-//
+<?php
 
 // action 
 add_action( 'all_admin_notices', 'mycustomlink',900 );
