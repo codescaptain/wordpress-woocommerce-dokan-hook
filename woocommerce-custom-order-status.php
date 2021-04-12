@@ -1,4 +1,4 @@
- public function add_WC_shipped_status($order_statuses)
+ <?php public function add_WC_shipped_status($order_statuses)
     {
         $order_statuses["wc-shipped"] = "Kargolandı";
         $order_statuses['wc-refunded-progress']="İptal Talep Edildi";
