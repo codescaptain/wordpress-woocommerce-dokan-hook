@@ -1,4 +1,5 @@
- add_action('woocommerce_registration_redirect', [$this, 'custom_registration_redirect'], 2);
+<?php 
+add_action('woocommerce_registration_redirect', [$this, 'custom_registration_redirect'], 2);
  
    //woocommerce register yönlendirme
     public function custom_registration_redirect()
