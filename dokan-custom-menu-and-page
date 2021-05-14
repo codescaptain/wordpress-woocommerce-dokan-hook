@@ -22,7 +22,7 @@ function dokan_load_template( $query_vars ) {
        }
 }
 
-
+?>
 
                                                                       /* HELP.PHP */
 
