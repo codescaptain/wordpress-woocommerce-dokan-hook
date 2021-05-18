@@ -1,4 +1,4 @@
-<?php 
+<?php
 add_action ( 'wp_head', 'hook_inHeader' );
 function hook_inHeader() {
     if ( is_single() ) {
